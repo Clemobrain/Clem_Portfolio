@@ -28,3 +28,15 @@ First, I’ll look at the total number of studies in the dataset, making sure to
 
 I’ll also look for sponsors, paying special attention to non-pharmaceutical businesses. I’ll count the number of clinical studies that the top 10 sponsors outside the pharmaceutical industry have supported. Etc.
 
+
+# DATAFRAME Implementation
+
+---
+
+### Figure 1.4.0
+
+The ‘Conditions’ column is divided according to the delimiter that is defined for the specified file root (which is kept in `conditions_delimiter`). It then splits the resultant array into several rows, each of which has a single condition. This guarantees that any condition in a row that includes multiple conditions separated by the designed delimiter will have its own row.
+
+Then I counted the instances of each condition and organized the DataFrame based on the ‘conditions’ column, after which I ordered the result in descending using `.orderby`. 
+
+In order to achieve the desired result, I filtered out unfilled conditions and displayed the top 5 rows without truncating the data.
