@@ -1,5 +1,5 @@
 # Clem_Portfolio
-Big Data and Machine learning portfolio
+Data Engineering/ Data Scientist Portfolio
 
 * CREATING A VARIABLE NAME FOR CLINICAL TRIAL AND PHARMA DATASET
 dbutils.fs.ls(f"/FileStore/tables/")
