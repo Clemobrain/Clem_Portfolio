@@ -20,4 +20,3 @@ def check_zip_file(_file):
 
 check_zip_file(clinical_tiral_file)
 check_zip_file(pharma_file)
-
