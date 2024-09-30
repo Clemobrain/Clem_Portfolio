@@ -1,57 +1,30 @@
-
-
-# Clem_Portfolio
-**Data Engineering/ Data Scientist Portfolio**
+# BIG DATA TOOLS AND TECHNIQUES  
+**STUDENT ID:** @00713171
 
 ---
 
-## 1. Creating a Variable Name for Clinical Trial and Pharma Dataset
-```python
-dbutils.fs.ls(f"/FileStore/tables/")
-
-clinical_tiral_file = "clinicaltrial_2021"
-pharma_file = "pharma"
-
-clinical_tiral_zip_file_exists = True
-pharma_zip_file_exists = True
-
-2. Defining a Function and Then Checking That the Files Needed Actually Exist
-
-def check_zip_file(_file):
-    try:
-        db = dbutils.fs.ls(f"/FileStore/tables/{_file}.zip")
-    except Exception:
-        zip_file_exists = False
-
-## Function to Check If the File Exists in the File System
-def check_zip_file(_file):
-    try:
-        db = dbutils.fs.ls(f"/FileStore/tables/{_file}.zip")
-    except Exception:
-        zip_file_exists = False
-## Checking Files
-check_zip_file(clinical_tiral_file)
-check_zip_file(pharma_file)
-
-
-### Step 4: Enable GitHub Pages
-
-1. Go to the **Settings** tab of your repository.
-2. Scroll down to the **Pages** section in the left sidebar.
-3. Under **Source**, choose `main` as the branch and `/root` for the folder.
-4. Click **Save**.
-
-After a few moments, GitHub will build and deploy your site. You will be provided with a URL where your portfolio will be hosted (e.g., `https://your-username.github.io/Clem_Portfolio/`).
-
-### Step 5: Customize (Optional)
-
-You can further customize your web page by choosing a theme for GitHub Pages under **Settings > Pages > Theme chooser**.
+### MSC DATA SCIENCE  
+School of Computing, Science & Engineering  
+University of Salford, Manchester.
 
 ---
 
-### Final Notes:
-- After following these steps, your portfolio will be live, and you can share the URL with others.
-- GitHub automatically converts the Markdown file to a webpage. Any Python code sections will be displayed as formatted code blocks.
+### AIRIOHUODION CLEMENT  
+**APRIL 02, 2024**
 
-Let me know if you need additional help!
+---
+
+# TASK ONE
+
+## ABSTRACT  
+The goal of this job is to get a thorough grasp of large data systems through the exploration of particular subjects that highlight the interaction between theory and real-world applications. It entails employing well-liked big data tools and methodologies in addition to having competence with common data analysis tasks including loading, cleaning, analyzing, and producing reports. It is essential to be proficient with Python, SQL, or Linux terminal commands in order to pass this test.
+
+---
+
+## INTRODUCTION  
+In my capacity as an AI engineer and data scientist given the opportunity to investigate more about clinical trials, I’ve carefully examined the dataset that is given me. Several important topics are intended to be addressed by this investigation, which skillfully uses visuals to bolster findings.  
+
+First, I’ll look at the total number of studies in the dataset, making sure to explicitly account for different research. The types of research that are here will next be discussed, with each type listed with its corresponding frequency in order of least to most frequent. I’ll also include the top 5 conditions found in the dataset along with their corresponding frequencies.  
+
+I’ll also look for sponsors, paying special attention to non-pharmaceutical businesses. I’ll count the number of clinical studies that the top 10 sponsors outside the pharmaceutical industry have supported. Etc.
 
