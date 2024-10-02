@@ -1,7 +1,9 @@
 # MY PROJECTS
 
-## BIG DATA TOOLS AND TECHNIQUES  
+
 **STUDENT ID:** @00713171
+### AIRIOHUODION CLEMENT  
+**APRIL 02, 2024**
 
 ---
 
@@ -11,12 +13,11 @@ University of Salford, Manchester.
 
 ---
 
-### AIRIOHUODION CLEMENT  
-**APRIL 02, 2024**
+# FIRST PROJECT
 
 ---
 
-# FIRST PROJECT
+## BIG DATA TOOLS AND TECHNIQUES 
 
 ### ABSTRACT  
 The goal of this job is to get a thorough grasp of large data systems through the exploration of particular subjects that highlight the interaction between theory and real-world applications. It entails employing well-liked big data tools and methodologies in addition to having competence with common data analysis tasks including loading, cleaning, analyzing, and producing reports. It is essential to be proficient with Python, SQL, or Linux terminal commands in order to pass this test.
