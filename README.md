@@ -17,7 +17,7 @@ University of Salford, Manchester.
 
 ---
 
-## BIG DATA TOOLS AND TECHNIQUES(https://github.com/Clemobrain/Clem_Portfolio/tree/main/github_Images)
+## [BIG DATA TOOLS AND TECHNIQUES](https://github.com/Clemobrain/Clem_Portfolio/tree/main/github_Images)
 
 ### ABSTRACT  
 The goal of this job is to get a thorough grasp of large data systems through the exploration of particular subjects that highlight the interaction between theory and real-world applications. It entails employing well-liked big data tools and methodologies in addition to having competence with common data analysis tasks including loading, cleaning, analyzing, and producing reports. It is essential to be proficient with Python, SQL, or Linux terminal commands in order to pass this test.
