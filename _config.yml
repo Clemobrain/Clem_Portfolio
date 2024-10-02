@@ -10,12 +10,3 @@ social_links:
   github: https://github.com/Clemobrain
   email: C.O.Airiohuodion@edu.salford.ac.uk
 
-# Custom colors (assuming the theme allows it)
-theme_color: "#3498db" # A blue color for highlights
-text_color: "#2c3e50" # Dark text color
-
-# SEO and social sharing
-meta_description: "Welcome to Clement Airiohuodion's personal portfolio page."
-meta_keywords: "Clement Airiohuodion, portfolio, developer, projects"
-meta_image: /github_Images/Clem.jpeg # Used when the page is shared on social media
-
