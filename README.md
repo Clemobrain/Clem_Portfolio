@@ -47,3 +47,4 @@ As a database developer consultant for a hospital, I’m to create a complete da
 In this task the first step I’ve decided to take is to prepare an ER proposed database design into 3NF, with the Entities, attributes and the relationships between them, taking into consideration the principles of database design which were thought in lecture. Below is the sketch of my proposed database tables and attributes.
 
 
+### FIND ATTACHED FULL COPIES OF THESE TWO INTERESTING PROJECTS:
