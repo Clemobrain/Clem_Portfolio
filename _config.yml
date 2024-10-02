@@ -3,5 +3,3 @@ logo: /assets/https://github.com/Clemobrain/Clem_Portfolio/blob/main/github_Imag
 description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-
-```html <footer> <div style="text-align: center; padding: 20px;"> <h2>Clement Airiohuodion</h2> <p> <a href="https://github.com/Clemobrain/Clem_Portfolio" target="_blank">View the Project on GitHub</a> </p> <p> <a href="link_to_your_zip_file.zip" download>Download ZIP File</a> </p> <p> <a href="link_to_your_tar_file.tar" download>Download TAR Ball</a> </p> <p> <a href="https://github.com/Clemobrain/Clem_Portfolio" target="_blank">View On GitHub</a> </p> </div> </footer> ``` ### Steps to Implement 1. **Open Your Repository**
