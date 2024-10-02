@@ -30,7 +30,7 @@ In my capacity as an AI engineer and data scientist given the opportunity to inv
 First, I’ll look at the total number of studies in the dataset, making sure to explicitly account for different research. The types of research that are here will next be discussed, with each type listed with its corresponding frequency in order of least to most frequent. I’ll also include the top 5 conditions found in the dataset along with their corresponding frequencies.  
 
 I’ll also look for sponsors, paying special attention to non-pharmaceutical businesses. I’ll count the number of clinical studies that the top 10 sponsors outside the pharmaceutical industry have supported. Etc.
-### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Big%20Data%20And%20Machine%20learning%20Project/clement-airiohuodion_report.pdf)
+##### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Big%20Data%20And%20Machine%20learning%20Project/clement-airiohuodion_report.pdf)
 
 # SECOND PROJECT
 
@@ -47,4 +47,4 @@ As a database developer consultant for a hospital, I’m to create a complete da
 In this task the first step I’ve decided to take is to prepare an ER proposed database design into 3NF, with the Entities, attributes and the relationships between them, taking into consideration the principles of database design which were thought in lecture. Below is the sketch of my proposed database tables and attributes.
 
 
-### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project/Airiohuodion_%4000713171.pdf)
+##### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project/Airiohuodion_%4000713171.pdf)
