@@ -48,3 +48,5 @@ In this task the first step I’ve decided to take is to prepare an ER proposed 
 
 
 ##### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
+##### Email Address:C.O.Airiohuodion@edu.salford.ac.uk
+##### Contact :+44(0)7342906701
