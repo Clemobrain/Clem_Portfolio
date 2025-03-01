@@ -48,5 +48,34 @@ In this task the first step I’ve decided to take is to prepare an ER proposed 
 
 
 ##### [CLICK TO HAVE A LOOK AT MY BACK UP FILES for this Project](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Advanced%20DB%20Project)
-##### Email Address:C.O.Airiohuodion@edu.salford.ac.uk
+##### Email Address:C.O.Airiohuodion@edu.salford.ac.uk , clementpython93@gmail.com
 ##### Contact :+44(0)7342906701
+
+---
+
+## [Machine Learning And Data Management]
+
+**November 11, 2025**
+
+---
+
+### INTRODUCTION
+Using labeled data, classification is a supervised machine learning technique that creates models to forecast categorical outcomes. These models, called classifiers, categorize data into distinct groups and are widely used in fields such as fraud detection, customer segmentation, and medical diagnosis (Han et al., 2011). Popular classification algorithms include Decision Trees, K-Nearest Neighbors (KNN), Neural Networks, and Random Forests, which analyze input features to predict outcomes effectively. With the advent of big data, scalable classification techniques have been developed to handle large, complex datasets, enabling robust decision-making across industries (Han et al., 2011).
+This study aims to forecast if a customer would sign up for a term deposit as part of a Portuguese bank's telemarketing operations. These campaigns require multiple contacts to assess client interest in the product, and their success heavily depends on accurate targeting of clients who are more likely to subscribe (Moro et al., 2014).
+The study's research issue is whether categorization methods can reliably forecast a client's term deposit subscription, and what are the key factors influencing this outcome? This question aims to evaluate the predictive performance of various classification algorithms, including Random Forests and Decision Trees, in determining client behavior. Previous studies, such as the work of Moro et al. (2014), demonstrated the effectiveness of machine learning in forecasting telemarketing results, achieving actionable insights for targeted marketing. By extending this approach, this study seeks to identify critical variables influencing subscription rates and propose strategies to optimize future campaigns. Ultimately, leveraging classification in this context aligns with the broader objective of using data-driven methods to enhance business decision-making and drive growth.
+
+---
+
+## [Advanced Statistics And Data Visualisation]
+
+**November 11, 2025**
+
+---
+
+### INTRODUCTION
+The urban-rural population gap between 1960 and 2050 is the main subject of this report's analysis of global population dynamics. Utilising an NGO dataset, the study incorporates historical data on demographic factors, including the proportion of urban and rural inhabitants, and economic classifications, from 1960 to 2022 with future forecasts from 2023 to 2050. Slicers for Year, Income Group, Region, and Country improve the five sophisticated visuals—donut charts, stacked area charts, maps, clustered bar charts, and hierarchies—integrated into the dynamic Power BI dashboard. These images give planners useful information for long-term planning by illuminating population patterns, regional differences, and the economic split in urbanization.
+
+Findings of note from my initial exploration of the data.
+Urbanization is a significant driver of economic growth and social transformation, expected to accelerate as global populations increasingly migrate to cities (World Bank, 2020). However, this trend also highlights disparities between urban and rural areas. While urbanization often brings economic opportunities, it creates challenges in ensuring equitable access to resources, particularly in rural regions (OECD, 2019). Nearly 90% of the predicted urban population expansion by 2050 is expected to take place in Asia and Africa, regions that are now known for having sizable rural populations. This shift underscores the importance of addressing the unique challenges and opportunities in these regions (UN-Habitat, 2020). 
+
+Sustainable urbanization is essential for balancing rapid urban growth with the preservation of rural livelihoods and ecosystems. Managing this balance is critical not only for economic and social stability but also for ensuring long-term environmental sustainability in the face of climate change (International Institute for Environment and Development, 2021). Together, these perspectives provide a comprehensive foundation for analyzing global urbanization trends and their implications for future development. 
